@@ -1,0 +1,8 @@
+{
+  "name": "WebGL-Inspector",
+  "fullName": "WebGL Inspector",
+  "description": "A WebGL debugging tool",
+  "author": "Benoit Girard <b56girard@gmail.com>",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
